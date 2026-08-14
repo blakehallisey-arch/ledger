@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# lock files sit next to the ledger they guard
+*.md.lock
+*.md.lock.d/

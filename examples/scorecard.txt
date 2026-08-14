@@ -1,0 +1,8 @@
+ledger — scorecard  (as of 2026-08-14)
+
+agent      runs  taken  rej  part  pend  take rate   of taken  med days
+---------  ----  -----  ---  ----  ----  ---------  ---------  --------
+sweeper      10      8    0     1     1        89%  6/8 right         1
+architect    10      2    7     0     1        22%  2/2 right         1
+
+2 entry(s) still PENDING across 2 agent(s). `ledger open`
